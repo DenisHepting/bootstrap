@@ -269,7 +269,7 @@ body {
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
-  color: #292b2c;
+  color: #0B7AFF;
   background-color: #fff;
 }
 
@@ -326,12 +326,12 @@ blockquote {
 }
 
 a {
-  color: #0275d8;
+  color: #7ED321;
   text-decoration: none;
 }
 
 a:focus, a:hover {
-  color: #014c8c;
+  color: #569117;
   text-decoration: underline;
 }
 
